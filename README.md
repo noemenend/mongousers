@@ -1,6 +1,6 @@
-## Title 
+## API Mongo Users 
 
-Returns json data about a single user.
+Returns json data about a single user created in a mongoDB database.
 
 
 ## Run the app
